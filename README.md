@@ -55,7 +55,7 @@
 - [ ] List all the records, from more recent to past.
 
 - **Word cloud Overview**
-  <img src=".\ux-design\AccountBook_classified_detail.png" width="30%" />
+<img src=".\ux-design\AccountBook_classified_detail.png" width="30%" />
 
 - [ ] Click "Logo" to go back to "Account Book Main Page"
 - [ ] List all the records in such category
