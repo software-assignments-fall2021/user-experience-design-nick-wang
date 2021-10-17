@@ -74,8 +74,13 @@ https://lifenote.invisionapp.com/overview/LifeNote-ckuud9mdb0eua0183bsvh03cf/scr
 Product Owner: Letian Ye
 
 App Map:  Letian Ye
+
 Home Page:  Letian Ye
+
 Diary related pages: Susan Liu
+
 Account book related pages: Yaolin Zhang, Zhuofeng Wang, Yiming Yu
+
 Prototype: Yaolin Zhang
+
 README: Letian Ye
