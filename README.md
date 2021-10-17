@@ -40,23 +40,28 @@
 
 - **Main**:
 <img src=".\ux-design\AccountBook_Home.png" width="30%" />
-- [ ] **Click** "return" to return to "Home Page"
-- [ ] Search anything in "Search bar" will go to related "Category Detail Page"
-- [ ] Type in "add" bar to add an record.
-- [ ] **Swipe down** to see Recent records, piechart of each cateory, and budget bar
-- [ ] **Click** "More transactions" to go to "Recent Record" Page
-- [ ] **Swipe down** to see each categorys.
-- [ ] **Click** any category to go to "Category Detail Page"
+
+1. **Click** "return" to return to "Home Page"
+2. Search anything in "Search bar" will go to related "Category Detail Page"
+3. Type in "add" bar to add an record.
+4. **Swipe down** to see Recent records, piechart of each cateory, and budget bar
+5. **Click** "More transactions" to go to "Recent Record" Page
+6. **Swipe down** to see each categorys.
+7. **Click** any category to go to "Category Detail Page"
+
 - **Recent Record**:
 <img src=".\ux-design\AccountBook_recent_record.png" width="30%" />
-- [ ] **Click** "Logo" to go back to "Account Book Main Page"
-- [ ] List all the records, from more recent to past.
+
+1. **Click** "Logo" to go back to "Account Book Main Page"
+2. List all the records, from more recent to past.
+
 - **Word cloud Overview**
 <img src=".\ux-design\AccountBook_classified_detail.png" width="30%" />
-- [ ] **Click** "Logo" to go back to "Account Book Main Page"
-- [ ] List all the records in such category
-- [ ] Click "Name", "Amount"... to sort by that
-- [ ] **Click** "Edit" to allow direct edit of any records, on the same page.
+
+1. **Click** "Logo" to go back to "Account Book Main Page"
+2. List all the records in such category
+3. Click "Name", "Amount"... to sort by that
+4. **Click** "Edit" to allow direct edit of any records, on the same page.
 
 ### Prototype
 This is the link to the web of the prototype.
