@@ -10,26 +10,31 @@
 
 <img src=".\ux-design\Main Page.png" width="30%" />
 
-- [ ] **Click** "Diary" to go to Diary Main Page.
-- [ ] **Click** "Account" to go to Account Book Main Page
+1. **Click** "Diary" to go to Diary Main Page.
+2. **Click** "Account" to go to Account Book Main Page
 
 
 #### Diary
 
 - **Main**:
 <img src=".\ux-design\Diary_MainPage.png" width="30%" />
-- [ ] **Click** "Home" to return to "Home Page"
-- [ ] **Click** "<<<" to close the slide.
-- [ ] **Click** "Overview" to go to "Diary Overview"
-- [ ] Type in anything or type name and datetime to create a new diary record
+
+1. **Click** "Home" to return to "Home Page"
+2. **Click** "<<<" to close the slide.
+3. **Click** "Overview" to go to "Diary Overview"
+4. Type in anything or type name and datetime to create a new diary record
+
 - **Main after slide**:
 <img src=".\ux-design\Diary_MainSlide.png" width="30%" />
-- [ ] **Click** "Home" to return to "Home Page"
-- [ ] Type in anything or type name and datetime to create a new diary record
+
+1. **Click** "Home" to return to "Home Page"
+2. Type in anything or type name and datetime to create a new diary record
+
 - **Word cloud Overview**
 <img src=".\ux-design\Diary_WordsCloud.png" width="30%" />
-- [ ] **Click** "Back" to return to "Diary Main Page"
-- [ ] Wordcloud consists of most common words or user-defined tags of one year/one month's diary.
+
+1. **Click** "Back" to return to "Diary Main Page"
+2. Wordcloud consists of most common words or user-defined tags of one year/one month's diary.
 
 #### Account Book
 
