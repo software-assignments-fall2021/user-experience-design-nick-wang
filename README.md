@@ -52,17 +52,30 @@
 - **Recent Record**:
 <img src=".\ux-design\AccountBook_recent_record.png" width="30%" />
 
-1. **Click** "Logo" to go back to "Account Book Main Page"
-2. List all the records, from more recent to past.
+1. **Click** "Logo" to go back to "Home Page"
+2. **Click** "Back" to go back to "Account Book Main Page"
+3. List all the records, from more recent to past.
 
 - **Word cloud Overview**
 <img src=".\ux-design\AccountBook_classified_detail.png" width="30%" />
 
-1. **Click** "Logo" to go back to "Account Book Main Page"
-2. List all the records in such category
-3. Click "Name", "Amount"... to sort by that
-4. **Click** "Edit" to allow direct edit of any records, on the same page.
+1. **Click** "return" to go back to "Account Book Main Page"
+2. **Click** "Logo" to go back to "Home Page"
+3. List all the records in such category
+4. Click "Name", "Amount"... to sort by that
+5. **Click** "Edit" to allow direct edit of any records, on the same page.
 
 ### Prototype
 This is the link to the web of the prototype.
 https://lifenote.invisionapp.com/overview/LifeNote-ckuud9mdb0eua0183bsvh03cf/screens
+
+### Contribute
+
+Product Owner: Letian Ye
+
+App Map:  Letian Ye
+Home Page:  Letian Ye
+Diary related pages: Susan Liu
+Account book related pages: Yaolin Zhang, Zhuofeng Wang, Yiming Yu
+Prototype: Yaolin Zhang
+README: Letian Ye
