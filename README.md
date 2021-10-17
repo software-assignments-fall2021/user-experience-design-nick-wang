@@ -27,8 +27,12 @@
 - **Main after slide**:
 <img src=".\ux-design\Diary_MainSlide.png" width="30%" />
 
+- [ ] Click "Home" to return to "Home Page"
+- [ ] Click "Overview" to go to "Diary Overview"
+- [ ] Type in anything or type name and datetime to create a new diary record
+
 - **Word cloud Overview**
-  <img src=".\ux-design\Diary_WordsCloud.png" width="30%" />
+<img src=".\ux-design\Diary_WordsCloud.png" width="30%" />
 
 - [ ] Click "Back" to return to "Diary Main Page"
 - [ ] Wordcloud consists of most common words or user-defined tags of one year/one month's diary.
